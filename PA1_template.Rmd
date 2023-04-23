@@ -92,7 +92,11 @@ ggplot() +
   theme_bw()
 
 
+![Rplot1](https://user-images.githubusercontent.com/94104488/233865170-a431bb16-fcbd-4256-8183-fcdf6b0b1914.png)
 
 
+![Rplot](https://user-images.githubusercontent.com/94104488/233865177-8e38090d-053a-438c-a0e6-f195010afd06.png)
+
+![Rplot02](https://user-images.githubusercontent.com/94104488/233865184-9df451a8-f342-4ad6-a0d1-e7232a6c3913.png)
 
 
